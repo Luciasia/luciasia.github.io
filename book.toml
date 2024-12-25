@@ -2,10 +2,10 @@
 title = "My Daily Journal"
 description = "Create journal using MdBook"
 authors = ["Haf"]
-language = "en
-
+language = "en"
 
 [output.html]
 smart-punctuation = true
 mathjax-support = true
 site-url = "/journal/"
+git-repository-url = "https://github.com/luciasia/luciasia.github.io/tree/main"
